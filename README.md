@@ -16,6 +16,9 @@
 <li>Run the script with: <code>python file.py</code>.</li>
 </ul>
 
+![mass rename - Jenderal92](https://github.com/user-attachments/assets/5ff07588-9d39-41c9-b6c5-f3a32c9aadb2)
+
+
 ## Disclaimer !!!
 
 <p>I have written the disclaimer on the cover of Jenderal92. You can check it <a href="https://github.com/Jenderal92">HERE !!!</a></p>
